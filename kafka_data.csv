@@ -1,0 +1,727 @@
+source,co2_level,location,timestamp
+Agriculture,456,Timor-Leste,2024-04-28 16:10:50
+Factory,316,Cyprus,2024-04-28 16:10:53
+Shipping,338,Cook Islands,2024-04-28 16:10:56
+Agriculture,919,Chad,2024-04-28 16:10:59
+Deforestation,835,Zambia,2024-05-05 21:33:11
+Construction,851,Switzerland,2024-05-05 21:33:14
+Deforestation,957,Indonesia,2024-05-05 21:33:17
+Agriculture,661,Mexico,2024-05-05 21:33:20
+Shipping,892,Andorra,2024-05-05 21:33:23
+Construction,497,Sudan,2024-05-05 21:33:26
+Factory,672,Morocco,2024-05-05 21:33:29
+Power Plant,312,Haiti,2024-05-05 21:33:32
+Construction,719,Korea,2024-05-05 21:33:35
+Deforestation,315,Croatia,2024-05-05 21:33:38
+Deforestation,371,Maldives,2024-05-05 21:33:41
+Vehicle,418,Senegal,2024-05-05 21:33:44
+Shipping,710,Eritrea,2024-05-05 21:33:47
+Construction,309,Netherlands Antilles,2024-05-05 21:33:50
+Construction,605,Falkland Islands (Malvinas),2024-05-05 21:33:53
+Agriculture,855,Russian Federation,2024-05-05 21:33:56
+Vehicle,430,Lesotho,2024-05-05 21:33:59
+Power Plant,647,Djibouti,2024-05-05 21:34:02
+Power Plant,314,Uruguay,2024-05-05 21:34:05
+Factory,888,Saint Martin,2024-05-05 21:34:08
+Shipping,561,Japan,2024-05-05 21:34:11
+Power Plant,454,Chad,2024-05-05 21:34:14
+Construction,901,Ireland,2024-05-05 21:34:17
+Agriculture,493,Gabon,2024-05-05 21:34:20
+Construction,771,Latvia,2024-05-05 21:34:23
+Construction,617,South Georgia and the South Sandwich Islands,2024-05-05 21:34:26
+Agriculture,725,Morocco,2024-05-05 21:34:29
+Shipping,346,Japan,2024-05-05 21:34:32
+Deforestation,841,Guernsey,2024-05-05 21:34:35
+Deforestation,309,Bulgaria,2024-05-05 21:34:38
+Agriculture,604,Saint Vincent and the Grenadines,2024-05-05 21:34:41
+Deforestation,683,New Caledonia,2024-05-05 21:34:44
+Construction,818,Ireland,2024-05-05 21:34:47
+Construction,363,Sudan,2024-05-05 21:34:50
+Vehicle,422,Paraguay,2024-05-05 21:34:53
+Agriculture,399,Andorra,2024-05-05 21:34:56
+Agriculture,572,South Africa,2024-05-05 21:34:59
+Agriculture,317,Marshall Islands,2024-05-05 21:35:02
+Shipping,610,Georgia,2024-05-05 21:35:05
+Agriculture,642,Bhutan,2024-05-05 21:35:08
+Power Plant,772,Barbados,2024-05-05 21:35:11
+Deforestation,343,Andorra,2024-05-05 21:35:14
+Agriculture,970,Jersey,2024-05-05 21:35:17
+Power Plant,484,Chile,2024-05-05 21:35:20
+Agriculture,647,Holy See (Vatican City State),2024-05-05 21:35:23
+Factory,521,Northern Mariana Islands,2024-05-05 21:35:26
+Shipping,483,Cocos (Keeling) Islands,2024-05-05 21:35:29
+Factory,568,Colombia,2024-05-05 21:35:32
+Agriculture,904,Maldives,2024-05-05 21:35:35
+Deforestation,613,Monaco,2024-05-05 21:35:38
+Power Plant,332,Heard Island and McDonald Islands,2024-05-05 21:35:41
+Shipping,660,Gambia,2024-05-05 21:35:44
+Vehicle,742,Christmas Island,2024-05-05 21:35:47
+Deforestation,912,Luxembourg,2024-05-05 21:35:50
+Deforestation,534,Nicaragua,2024-05-05 21:35:53
+Deforestation,531,Pakistan,2024-05-05 21:35:56
+Shipping,778,Venezuela,2024-05-05 21:35:59
+Construction,364,Jamaica,2024-05-05 21:36:02
+Construction,857,Liberia,2024-05-05 21:36:05
+Vehicle,800,Comoros,2024-05-05 21:36:08
+Deforestation,737,Luxembourg,2024-05-05 21:36:11
+Deforestation,855,Taiwan,2024-05-05 21:36:14
+Factory,653,United States Minor Outlying Islands,2024-05-05 21:36:17
+Agriculture,497,Egypt,2024-05-05 21:36:20
+Factory,751,Malaysia,2024-05-05 21:36:23
+Factory,662,Brazil,2024-05-05 21:36:26
+Agriculture,792,Libyan Arab Jamahiriya,2024-05-05 21:36:29
+Shipping,713,Thailand,2024-05-05 21:36:32
+Power Plant,817,Iceland,2024-05-05 21:36:35
+Power Plant,366,Argentina,2024-05-05 21:36:38
+Factory,577,Spain,2024-05-05 21:36:41
+Factory,516,Niger,2024-05-05 21:36:44
+Deforestation,615,Saint Helena,2024-05-05 21:36:47
+Factory,446,Nepal,2024-05-05 21:36:50
+Shipping,996,New Zealand,2024-05-05 21:36:53
+Construction,678,Pitcairn Islands,2024-05-05 21:36:56
+Vehicle,870,Tuvalu,2024-05-05 21:36:59
+Construction,957,Lesotho,2024-05-05 21:37:02
+Deforestation,538,Paraguay,2024-05-05 21:37:05
+Construction,584,Zambia,2024-05-05 21:37:08
+Power Plant,958,Guatemala,2024-05-05 21:37:11
+Factory,617,Dominica,2024-05-05 21:37:14
+Construction,490,Turkmenistan,2024-05-05 21:37:17
+Vehicle,706,Senegal,2024-05-05 21:37:20
+Factory,453,Palau,2024-05-05 21:37:23
+Deforestation,436,El Salvador,2024-05-05 21:37:26
+Shipping,317,Christmas Island,2024-05-05 21:37:29
+Deforestation,803,Ecuador,2024-05-05 21:37:32
+Agriculture,801,Uruguay,2024-05-05 22:54:30
+Construction,738,Brunei Darussalam,2024-05-05 22:54:33
+Shipping,432,Saudi Arabia,2024-05-05 22:54:36
+Construction,714,Saint Vincent and the Grenadines,2024-05-05 22:54:39
+Vehicle,426,Jamaica,2024-05-05 22:54:42
+Agriculture,344,British Virgin Islands,2024-05-05 22:54:45
+Agriculture,453,Italy,2024-05-05 22:54:48
+Deforestation,439,Oman,2024-05-05 22:54:51
+Power Plant,837,Botswana,2024-05-05 22:54:54
+Shipping,590,Djibouti,2024-05-05 22:54:57
+Vehicle,424,Sudan,2024-05-05 22:55:00
+Deforestation,966,Costa Rica,2024-05-05 22:55:03
+Construction,823,Trinidad and Tobago,2024-05-05 22:55:06
+Factory,663,United States Virgin Islands,2024-05-05 22:55:09
+Vehicle,908,India,2024-05-05 22:55:12
+Power Plant,702,Isle of Man,2024-05-05 22:55:15
+Deforestation,609,Dominica,2024-05-05 22:55:18
+Power Plant,826,Mexico,2024-05-05 22:55:21
+Agriculture,321,Czech Republic,2024-05-05 22:55:24
+Agriculture,794,Estonia,2024-05-05 22:55:27
+Power Plant,677,Nigeria,2024-05-05 22:55:30
+Construction,827,Belize,2024-05-05 22:55:33
+Deforestation,781,Pitcairn Islands,2024-05-05 22:55:36
+Deforestation,956,Myanmar,2024-05-05 22:55:39
+Construction,673,Sierra Leone,2024-05-05 22:55:42
+Shipping,576,Nauru,2024-05-05 22:55:45
+Power Plant,739,China,2024-05-05 22:55:48
+Factory,890,United States Minor Outlying Islands,2024-05-05 22:55:51
+Vehicle,388,Madagascar,2024-05-05 22:55:54
+Shipping,728,Eritrea,2024-05-05 22:55:57
+Power Plant,819,Micronesia,2024-05-05 22:56:00
+Construction,798,Montenegro,2024-05-05 22:56:03
+Factory,403,North Macedonia,2024-05-05 22:56:06
+Power Plant,584,Timor-Leste,2024-05-05 22:56:09
+Vehicle,437,Botswana,2024-05-05 22:56:12
+Shipping,933,Vanuatu,2024-05-05 22:56:15
+Agriculture,770,Hungary,2024-05-05 22:56:18
+Construction,728,Uzbekistan,2024-05-05 22:56:21
+Deforestation,900,Mauritius,2024-05-05 22:56:24
+Construction,872,Kenya,2024-05-05 22:56:27
+Vehicle,984,Singapore,2024-05-05 22:56:30
+Vehicle,524,Marshall Islands,2024-05-05 22:56:33
+Agriculture,619,Liechtenstein,2024-05-05 22:56:36
+Construction,929,Estonia,2024-05-05 22:56:39
+Power Plant,400,French Southern Territories,2024-05-05 22:56:42
+Factory,831,Guyana,2024-05-06 10:21:35
+Construction,418,Nauru,2024-05-06 10:21:38
+Shipping,375,Macao,2024-05-06 10:21:41
+Factory,399,Singapore,2024-05-06 10:21:44
+Deforestation,322,Liechtenstein,2024-05-06 10:21:47
+Power Plant,594,San Marino,2024-05-06 10:21:50
+Deforestation,322,Ethiopia,2024-05-06 10:21:53
+Agriculture,972,Central African Republic,2024-05-06 10:21:56
+Shipping,1000,Cyprus,2024-05-06 10:21:59
+Construction,682,French Polynesia,2024-05-06 10:22:02
+Agriculture,972,San Marino,2024-05-06 10:22:05
+Vehicle,432,Cote d'Ivoire,2024-05-06 10:22:08
+Construction,466,Czech Republic,2024-05-06 10:22:11
+Vehicle,763,Nepal,2024-05-06 10:22:14
+Factory,932,Vanuatu,2024-05-06 10:22:17
+Shipping,763,Argentina,2024-05-06 10:22:20
+Deforestation,576,Congo,2024-05-06 10:22:23
+Deforestation,859,Mongolia,2024-05-06 10:22:26
+Shipping,451,Kyrgyz Republic,2024-05-06 10:22:29
+Shipping,678,Palestinian Territory,2024-05-06 10:22:32
+Factory,774,Equatorial Guinea,2024-05-06 10:22:35
+Deforestation,617,Senegal,2024-05-06 10:22:38
+Agriculture,473,Cocos (Keeling) Islands,2024-05-06 10:22:41
+Shipping,912,Mexico,2024-05-06 10:22:44
+Deforestation,931,Christmas Island,2024-05-06 10:22:47
+Construction,897,British Indian Ocean Territory (Chagos Archipelago),2024-05-06 10:22:50
+Deforestation,432,Taiwan,2024-05-06 10:22:53
+Vehicle,347,Serbia,2024-05-06 10:22:56
+Shipping,327,Belgium,2024-05-06 10:22:59
+Power Plant,860,Egypt,2024-05-06 10:23:02
+Power Plant,596,United States Virgin Islands,2024-05-06 10:23:05
+Construction,430,Dominica,2024-05-06 10:23:08
+Construction,403,Belize,2024-05-06 10:23:11
+Factory,896,Mozambique,2024-05-06 10:23:14
+Deforestation,905,Congo,2024-05-06 10:23:17
+Deforestation,530,Lithuania,2024-05-06 10:23:20
+Shipping,726,Gibraltar,2024-05-06 10:23:23
+Power Plant,430,Montenegro,2024-05-06 10:23:26
+Power Plant,540,Switzerland,2024-05-06 10:23:29
+Agriculture,364,Sri Lanka,2024-05-06 10:23:32
+Power Plant,937,Guinea-Bissau,2024-05-06 10:23:35
+Deforestation,441,Mayotte,2024-05-06 10:23:38
+Factory,306,Croatia,2024-05-06 10:23:41
+Shipping,446,Azerbaijan,2024-05-06 10:23:44
+Shipping,517,Mongolia,2024-05-06 10:23:47
+Agriculture,380,South Georgia and the South Sandwich Islands,2024-05-06 10:23:50
+Deforestation,936,Palau,2024-05-06 10:23:53
+Deforestation,620,Cameroon,2024-05-06 10:23:56
+Shipping,676,Vietnam,2024-05-06 10:23:59
+Power Plant,454,Gabon,2024-05-06 10:24:02
+Deforestation,661,Ethiopia,2024-05-06 10:24:05
+Agriculture,622,Kenya,2024-05-06 10:24:08
+Power Plant,363,Mongolia,2024-05-06 10:24:11
+Agriculture,439,Cameroon,2024-05-06 10:24:14
+Construction,919,Togo,2024-05-06 14:25:33
+Deforestation,562,Iceland,2024-05-06 14:25:36
+Power Plant,506,Switzerland,2024-05-06 14:25:39
+Factory,497,Ethiopia,2024-05-06 14:25:42
+Vehicle,630,Burundi,2024-05-06 14:25:45
+Construction,678,Macao,2024-05-06 14:25:48
+Vehicle,882,Heard Island and McDonald Islands,2024-05-06 14:25:51
+Agriculture,505,Taiwan,2024-05-06 14:25:54
+Construction,908,Burkina Faso,2024-05-06 14:25:57
+Construction,500,Burundi,2024-05-06 14:26:00
+Agriculture,673,Norfolk Island,2024-05-06 14:26:03
+Vehicle,653,Botswana,2024-05-06 14:26:06
+Factory,965,Dominican Republic,2024-05-06 14:26:09
+Factory,956,Slovenia,2024-05-06 14:26:12
+Agriculture,616,Malaysia,2024-05-06 14:26:15
+Construction,383,China,2024-05-06 14:26:18
+Construction,626,Seychelles,2024-05-06 14:26:21
+Shipping,785,Suriname,2024-05-06 14:26:24
+Construction,783,Christmas Island,2024-05-06 14:26:27
+Factory,502,Romania,2024-05-06 14:26:30
+Power Plant,972,Western Sahara,2024-05-06 14:26:33
+Vehicle,720,Heard Island and McDonald Islands,2024-05-06 14:26:36
+Construction,780,Saint Helena,2024-05-06 14:26:39
+Vehicle,998,Paraguay,2024-05-06 14:26:42
+Power Plant,472,Papua New Guinea,2024-05-06 14:26:45
+Deforestation,721,Saint Barthelemy,2024-05-06 14:26:48
+Shipping,578,France,2024-05-06 14:26:51
+Agriculture,861,Denmark,2024-05-06 14:26:54
+Vehicle,446,Faroe Islands,2024-05-06 14:26:57
+Shipping,398,Norfolk Island,2024-05-06 14:27:00
+Factory,684,Bermuda,2024-05-06 14:27:03
+Agriculture,785,Italy,2024-05-06 14:27:06
+Shipping,886,Spain,2024-05-06 14:27:09
+Shipping,411,Syrian Arab Republic,2024-05-06 14:27:12
+Construction,709,Cyprus,2024-05-06 14:27:15
+Factory,939,Bouvet Island (Bouvetoya),2024-05-06 14:27:18
+Vehicle,936,Cook Islands,2024-05-06 14:27:21
+Factory,549,French Polynesia,2024-05-06 14:27:24
+Factory,606,Chile,2024-05-06 14:27:27
+Factory,767,Svalbard & Jan Mayen Islands,2024-05-06 14:27:30
+Vehicle,455,Azerbaijan,2024-05-06 14:27:33
+Shipping,517,Tajikistan,2024-05-06 14:49:44
+Shipping,558,Burkina Faso,2024-05-06 14:49:47
+Agriculture,427,United Kingdom,2024-05-06 14:49:50
+Agriculture,887,Libyan Arab Jamahiriya,2024-05-06 14:49:53
+Deforestation,746,Central African Republic,2024-05-06 14:49:56
+Vehicle,439,Chile,2024-05-06 14:49:59
+Agriculture,691,Haiti,2024-05-06 14:50:02
+Agriculture,735,Saint Barthelemy,2024-05-06 14:50:05
+Factory,631,Honduras,2024-05-06 14:50:08
+Power Plant,375,Iran,2024-05-06 14:50:11
+Vehicle,597,New Zealand,2024-05-06 14:50:14
+Factory,521,Japan,2024-05-06 14:50:17
+Factory,904,Cocos (Keeling) Islands,2024-05-06 14:50:20
+Shipping,459,Poland,2024-05-06 14:50:23
+Agriculture,914,Comoros,2024-05-06 14:50:26
+Shipping,752,United Arab Emirates,2024-05-06 14:50:29
+Vehicle,936,Swaziland,2024-05-06 14:50:32
+Construction,701,Qatar,2024-05-06 14:50:35
+Construction,621,British Virgin Islands,2024-05-06 14:50:38
+Construction,895,Seychelles,2024-05-06 14:50:41
+Deforestation,347,Korea,2024-05-06 14:50:44
+Construction,510,Eritrea,2024-05-06 14:50:47
+Shipping,379,Egypt,2024-05-06 15:26:33
+Power Plant,819,Peru,2024-05-06 15:26:36
+Agriculture,500,Marshall Islands,2024-05-06 15:26:39
+Shipping,535,Lithuania,2024-05-06 15:26:42
+Power Plant,341,Georgia,2024-05-06 15:26:45
+Power Plant,863,Turkey,2024-05-06 15:26:48
+Power Plant,722,Trinidad and Tobago,2024-05-06 15:26:51
+Vehicle,665,Korea,2024-05-06 15:26:54
+Deforestation,329,Philippines,2024-05-06 15:26:57
+Factory,892,Northern Mariana Islands,2024-05-06 15:27:00
+Power Plant,909,Qatar,2024-05-06 15:27:03
+Power Plant,469,Ireland,2024-05-06 15:27:06
+Deforestation,838,Timor-Leste,2024-05-06 15:27:09
+Power Plant,615,Solomon Islands,2024-05-06 15:27:12
+Power Plant,713,Albania,2024-05-06 15:27:15
+Shipping,758,Saint Lucia,2024-05-06 15:27:18
+Construction,547,Saint Lucia,2024-05-06 15:27:21
+Vehicle,322,Georgia,2024-05-06 15:27:24
+Power Plant,839,Azerbaijan,2024-05-06 15:27:27
+Factory,730,Ghana,2024-05-06 15:27:30
+Agriculture,516,Israel,2024-05-06 15:27:33
+Shipping,805,Congo,2024-05-06 15:27:36
+Factory,776,Greece,2024-05-06 15:27:39
+Agriculture,463,Lao People's Democratic Republic,2024-05-06 15:27:42
+Power Plant,486,Singapore,2024-05-06 15:27:45
+Agriculture,826,Venezuela,2024-05-06 15:27:48
+Agriculture,305,Eritrea,2024-05-06 15:27:51
+Deforestation,743,Greenland,2024-05-06 15:27:54
+Agriculture,645,Turkey,2024-05-06 15:27:57
+Agriculture,586,Holy See (Vatican City State),2024-05-06 15:28:00
+Vehicle,708,Aruba,2024-05-06 15:28:03
+Shipping,466,Ecuador,2024-05-06 15:28:06
+Agriculture,616,Antarctica (the territory South of 60 deg S),2024-05-06 15:28:09
+Power Plant,986,Cocos (Keeling) Islands,2024-05-06 15:28:12
+Shipping,905,Slovakia (Slovak Republic),2024-05-06 15:28:15
+Deforestation,425,South Africa,2024-05-06 15:28:18
+Agriculture,323,Tanzania,2024-05-06 15:28:21
+Agriculture,589,French Polynesia,2024-05-06 15:37:20
+Agriculture,383,Guadeloupe,2024-05-06 15:37:23
+Agriculture,556,Kuwait,2024-05-06 15:37:26
+Agriculture,417,Saint Vincent and the Grenadines,2024-05-06 15:37:29
+Deforestation,835,Zambia,2024-05-05 21:33:11
+Construction,851,Switzerland,2024-05-05 21:33:14
+Deforestation,957,Indonesia,2024-05-05 21:33:17
+Agriculture,661,Mexico,2024-05-05 21:33:20
+Shipping,892,Andorra,2024-05-05 21:33:23
+Construction,497,Sudan,2024-05-05 21:33:26
+Factory,672,Morocco,2024-05-05 21:33:29
+Power Plant,312,Haiti,2024-05-05 21:33:32
+Construction,719,Korea,2024-05-05 21:33:35
+Deforestation,315,Croatia,2024-05-05 21:33:38
+Deforestation,371,Maldives,2024-05-05 21:33:41
+Vehicle,418,Senegal,2024-05-05 21:33:44
+Shipping,710,Eritrea,2024-05-05 21:33:47
+Construction,309,Netherlands Antilles,2024-05-05 21:33:50
+Construction,605,Falkland Islands (Malvinas),2024-05-05 21:33:53
+Agriculture,855,Russian Federation,2024-05-05 21:33:56
+Vehicle,430,Lesotho,2024-05-05 21:33:59
+Power Plant,647,Djibouti,2024-05-05 21:34:02
+Power Plant,314,Uruguay,2024-05-05 21:34:05
+Factory,888,Saint Martin,2024-05-05 21:34:08
+Shipping,561,Japan,2024-05-05 21:34:11
+Power Plant,454,Chad,2024-05-05 21:34:14
+Construction,901,Ireland,2024-05-05 21:34:17
+Agriculture,493,Gabon,2024-05-05 21:34:20
+Construction,771,Latvia,2024-05-05 21:34:23
+Construction,617,South Georgia and the South Sandwich Islands,2024-05-05 21:34:26
+Agriculture,725,Morocco,2024-05-05 21:34:29
+Shipping,346,Japan,2024-05-05 21:34:32
+Deforestation,841,Guernsey,2024-05-05 21:34:35
+Deforestation,309,Bulgaria,2024-05-05 21:34:38
+Agriculture,604,Saint Vincent and the Grenadines,2024-05-05 21:34:41
+Deforestation,683,New Caledonia,2024-05-05 21:34:44
+Construction,818,Ireland,2024-05-05 21:34:47
+Construction,363,Sudan,2024-05-05 21:34:50
+Vehicle,422,Paraguay,2024-05-05 21:34:53
+Agriculture,399,Andorra,2024-05-05 21:34:56
+Agriculture,572,South Africa,2024-05-05 21:34:59
+Agriculture,317,Marshall Islands,2024-05-05 21:35:02
+Shipping,610,Georgia,2024-05-05 21:35:05
+Agriculture,642,Bhutan,2024-05-05 21:35:08
+Power Plant,772,Barbados,2024-05-05 21:35:11
+Deforestation,343,Andorra,2024-05-05 21:35:14
+Agriculture,970,Jersey,2024-05-05 21:35:17
+Power Plant,484,Chile,2024-05-05 21:35:20
+Agriculture,647,Holy See (Vatican City State),2024-05-05 21:35:23
+Factory,521,Northern Mariana Islands,2024-05-05 21:35:26
+Shipping,483,Cocos (Keeling) Islands,2024-05-05 21:35:29
+Factory,568,Colombia,2024-05-05 21:35:32
+Agriculture,904,Maldives,2024-05-05 21:35:35
+Deforestation,613,Monaco,2024-05-05 21:35:38
+Power Plant,332,Heard Island and McDonald Islands,2024-05-05 21:35:41
+Shipping,660,Gambia,2024-05-05 21:35:44
+Vehicle,742,Christmas Island,2024-05-05 21:35:47
+Deforestation,912,Luxembourg,2024-05-05 21:35:50
+Deforestation,534,Nicaragua,2024-05-05 21:35:53
+Deforestation,531,Pakistan,2024-05-05 21:35:56
+Shipping,778,Venezuela,2024-05-05 21:35:59
+Construction,364,Jamaica,2024-05-05 21:36:02
+Construction,857,Liberia,2024-05-05 21:36:05
+Vehicle,800,Comoros,2024-05-05 21:36:08
+Deforestation,737,Luxembourg,2024-05-05 21:36:11
+Deforestation,855,Taiwan,2024-05-05 21:36:14
+Factory,653,United States Minor Outlying Islands,2024-05-05 21:36:17
+Agriculture,497,Egypt,2024-05-05 21:36:20
+Factory,751,Malaysia,2024-05-05 21:36:23
+Factory,662,Brazil,2024-05-05 21:36:26
+Agriculture,792,Libyan Arab Jamahiriya,2024-05-05 21:36:29
+Shipping,713,Thailand,2024-05-05 21:36:32
+Power Plant,817,Iceland,2024-05-05 21:36:35
+Power Plant,366,Argentina,2024-05-05 21:36:38
+Factory,577,Spain,2024-05-05 21:36:41
+Factory,516,Niger,2024-05-05 21:36:44
+Deforestation,615,Saint Helena,2024-05-05 21:36:47
+Factory,446,Nepal,2024-05-05 21:36:50
+Shipping,996,New Zealand,2024-05-05 21:36:53
+Construction,678,Pitcairn Islands,2024-05-05 21:36:56
+Vehicle,870,Tuvalu,2024-05-05 21:36:59
+Construction,957,Lesotho,2024-05-05 21:37:02
+Deforestation,538,Paraguay,2024-05-05 21:37:05
+Construction,584,Zambia,2024-05-05 21:37:08
+Power Plant,958,Guatemala,2024-05-05 21:37:11
+Factory,617,Dominica,2024-05-05 21:37:14
+Construction,490,Turkmenistan,2024-05-05 21:37:17
+Vehicle,706,Senegal,2024-05-05 21:37:20
+Factory,453,Palau,2024-05-05 21:37:23
+Deforestation,436,El Salvador,2024-05-05 21:37:26
+Shipping,317,Christmas Island,2024-05-05 21:37:29
+Deforestation,803,Ecuador,2024-05-05 21:37:32
+Agriculture,801,Uruguay,2024-05-05 22:54:30
+Construction,738,Brunei Darussalam,2024-05-05 22:54:33
+Shipping,432,Saudi Arabia,2024-05-05 22:54:36
+Construction,714,Saint Vincent and the Grenadines,2024-05-05 22:54:39
+Vehicle,426,Jamaica,2024-05-05 22:54:42
+Agriculture,344,British Virgin Islands,2024-05-05 22:54:45
+Agriculture,453,Italy,2024-05-05 22:54:48
+Deforestation,439,Oman,2024-05-05 22:54:51
+Power Plant,837,Botswana,2024-05-05 22:54:54
+Shipping,590,Djibouti,2024-05-05 22:54:57
+Vehicle,424,Sudan,2024-05-05 22:55:00
+Deforestation,966,Costa Rica,2024-05-05 22:55:03
+Construction,823,Trinidad and Tobago,2024-05-05 22:55:06
+Factory,663,United States Virgin Islands,2024-05-05 22:55:09
+Vehicle,908,India,2024-05-05 22:55:12
+Power Plant,702,Isle of Man,2024-05-05 22:55:15
+Deforestation,609,Dominica,2024-05-05 22:55:18
+Power Plant,826,Mexico,2024-05-05 22:55:21
+Agriculture,321,Czech Republic,2024-05-05 22:55:24
+Agriculture,794,Estonia,2024-05-05 22:55:27
+Power Plant,677,Nigeria,2024-05-05 22:55:30
+Construction,827,Belize,2024-05-05 22:55:33
+Deforestation,781,Pitcairn Islands,2024-05-05 22:55:36
+Deforestation,956,Myanmar,2024-05-05 22:55:39
+Construction,673,Sierra Leone,2024-05-05 22:55:42
+Shipping,576,Nauru,2024-05-05 22:55:45
+Power Plant,739,China,2024-05-05 22:55:48
+Factory,890,United States Minor Outlying Islands,2024-05-05 22:55:51
+Vehicle,388,Madagascar,2024-05-05 22:55:54
+Shipping,728,Eritrea,2024-05-05 22:55:57
+Power Plant,819,Micronesia,2024-05-05 22:56:00
+Construction,798,Montenegro,2024-05-05 22:56:03
+Factory,403,North Macedonia,2024-05-05 22:56:06
+Power Plant,584,Timor-Leste,2024-05-05 22:56:09
+Vehicle,437,Botswana,2024-05-05 22:56:12
+Shipping,933,Vanuatu,2024-05-05 22:56:15
+Agriculture,770,Hungary,2024-05-05 22:56:18
+Construction,728,Uzbekistan,2024-05-05 22:56:21
+Deforestation,900,Mauritius,2024-05-05 22:56:24
+Construction,872,Kenya,2024-05-05 22:56:27
+Vehicle,984,Singapore,2024-05-05 22:56:30
+Vehicle,524,Marshall Islands,2024-05-05 22:56:33
+Agriculture,619,Liechtenstein,2024-05-05 22:56:36
+Construction,929,Estonia,2024-05-05 22:56:39
+Power Plant,400,French Southern Territories,2024-05-05 22:56:42
+Factory,831,Guyana,2024-05-06 10:21:35
+Construction,418,Nauru,2024-05-06 10:21:38
+Shipping,375,Macao,2024-05-06 10:21:41
+Factory,399,Singapore,2024-05-06 10:21:44
+Deforestation,322,Liechtenstein,2024-05-06 10:21:47
+Power Plant,594,San Marino,2024-05-06 10:21:50
+Deforestation,322,Ethiopia,2024-05-06 10:21:53
+Agriculture,972,Central African Republic,2024-05-06 10:21:56
+Shipping,1000,Cyprus,2024-05-06 10:21:59
+Construction,682,French Polynesia,2024-05-06 10:22:02
+Agriculture,972,San Marino,2024-05-06 10:22:05
+Vehicle,432,Cote d'Ivoire,2024-05-06 10:22:08
+Construction,466,Czech Republic,2024-05-06 10:22:11
+Vehicle,763,Nepal,2024-05-06 10:22:14
+Factory,932,Vanuatu,2024-05-06 10:22:17
+Shipping,763,Argentina,2024-05-06 10:22:20
+Deforestation,576,Congo,2024-05-06 10:22:23
+Deforestation,859,Mongolia,2024-05-06 10:22:26
+Shipping,451,Kyrgyz Republic,2024-05-06 10:22:29
+Shipping,678,Palestinian Territory,2024-05-06 10:22:32
+Factory,774,Equatorial Guinea,2024-05-06 10:22:35
+Deforestation,617,Senegal,2024-05-06 10:22:38
+Agriculture,473,Cocos (Keeling) Islands,2024-05-06 10:22:41
+Shipping,912,Mexico,2024-05-06 10:22:44
+Deforestation,931,Christmas Island,2024-05-06 10:22:47
+Construction,897,British Indian Ocean Territory (Chagos Archipelago),2024-05-06 10:22:50
+Deforestation,432,Taiwan,2024-05-06 10:22:53
+Vehicle,347,Serbia,2024-05-06 10:22:56
+Shipping,327,Belgium,2024-05-06 10:22:59
+Power Plant,860,Egypt,2024-05-06 10:23:02
+Power Plant,596,United States Virgin Islands,2024-05-06 10:23:05
+Construction,430,Dominica,2024-05-06 10:23:08
+Construction,403,Belize,2024-05-06 10:23:11
+Factory,896,Mozambique,2024-05-06 10:23:14
+Deforestation,905,Congo,2024-05-06 10:23:17
+Deforestation,530,Lithuania,2024-05-06 10:23:20
+Shipping,726,Gibraltar,2024-05-06 10:23:23
+Power Plant,430,Montenegro,2024-05-06 10:23:26
+Power Plant,540,Switzerland,2024-05-06 10:23:29
+Agriculture,364,Sri Lanka,2024-05-06 10:23:32
+Power Plant,937,Guinea-Bissau,2024-05-06 10:23:35
+Deforestation,441,Mayotte,2024-05-06 10:23:38
+Factory,306,Croatia,2024-05-06 10:23:41
+Shipping,446,Azerbaijan,2024-05-06 10:23:44
+Shipping,517,Mongolia,2024-05-06 10:23:47
+Agriculture,380,South Georgia and the South Sandwich Islands,2024-05-06 10:23:50
+Deforestation,936,Palau,2024-05-06 10:23:53
+Deforestation,620,Cameroon,2024-05-06 10:23:56
+Shipping,676,Vietnam,2024-05-06 10:23:59
+Power Plant,454,Gabon,2024-05-06 10:24:02
+Deforestation,661,Ethiopia,2024-05-06 10:24:05
+Agriculture,622,Kenya,2024-05-06 10:24:08
+Power Plant,363,Mongolia,2024-05-06 10:24:11
+Agriculture,439,Cameroon,2024-05-06 10:24:14
+Construction,919,Togo,2024-05-06 14:25:33
+Deforestation,562,Iceland,2024-05-06 14:25:36
+Power Plant,506,Switzerland,2024-05-06 14:25:39
+Factory,497,Ethiopia,2024-05-06 14:25:42
+Vehicle,630,Burundi,2024-05-06 14:25:45
+Construction,678,Macao,2024-05-06 14:25:48
+Vehicle,882,Heard Island and McDonald Islands,2024-05-06 14:25:51
+Agriculture,505,Taiwan,2024-05-06 14:25:54
+Construction,908,Burkina Faso,2024-05-06 14:25:57
+Construction,500,Burundi,2024-05-06 14:26:00
+Agriculture,673,Norfolk Island,2024-05-06 14:26:03
+Vehicle,653,Botswana,2024-05-06 14:26:06
+Factory,965,Dominican Republic,2024-05-06 14:26:09
+Factory,956,Slovenia,2024-05-06 14:26:12
+Agriculture,616,Malaysia,2024-05-06 14:26:15
+Construction,383,China,2024-05-06 14:26:18
+Construction,626,Seychelles,2024-05-06 14:26:21
+Shipping,785,Suriname,2024-05-06 14:26:24
+Construction,783,Christmas Island,2024-05-06 14:26:27
+Factory,502,Romania,2024-05-06 14:26:30
+Power Plant,972,Western Sahara,2024-05-06 14:26:33
+Vehicle,720,Heard Island and McDonald Islands,2024-05-06 14:26:36
+Construction,780,Saint Helena,2024-05-06 14:26:39
+Vehicle,998,Paraguay,2024-05-06 14:26:42
+Power Plant,472,Papua New Guinea,2024-05-06 14:26:45
+Deforestation,721,Saint Barthelemy,2024-05-06 14:26:48
+Shipping,578,France,2024-05-06 14:26:51
+Agriculture,861,Denmark,2024-05-06 14:26:54
+Vehicle,446,Faroe Islands,2024-05-06 14:26:57
+Shipping,398,Norfolk Island,2024-05-06 14:27:00
+Factory,684,Bermuda,2024-05-06 14:27:03
+Agriculture,785,Italy,2024-05-06 14:27:06
+Shipping,886,Spain,2024-05-06 14:27:09
+Shipping,411,Syrian Arab Republic,2024-05-06 14:27:12
+Construction,709,Cyprus,2024-05-06 14:27:15
+Factory,939,Bouvet Island (Bouvetoya),2024-05-06 14:27:18
+Vehicle,936,Cook Islands,2024-05-06 14:27:21
+Factory,549,French Polynesia,2024-05-06 14:27:24
+Factory,606,Chile,2024-05-06 14:27:27
+Factory,767,Svalbard & Jan Mayen Islands,2024-05-06 14:27:30
+Vehicle,455,Azerbaijan,2024-05-06 14:27:33
+Shipping,517,Tajikistan,2024-05-06 14:49:44
+Shipping,558,Burkina Faso,2024-05-06 14:49:47
+Agriculture,427,United Kingdom,2024-05-06 14:49:50
+Agriculture,887,Libyan Arab Jamahiriya,2024-05-06 14:49:53
+Deforestation,746,Central African Republic,2024-05-06 14:49:56
+Vehicle,439,Chile,2024-05-06 14:49:59
+Agriculture,691,Haiti,2024-05-06 14:50:02
+Agriculture,735,Saint Barthelemy,2024-05-06 14:50:05
+Factory,631,Honduras,2024-05-06 14:50:08
+Power Plant,375,Iran,2024-05-06 14:50:11
+Vehicle,597,New Zealand,2024-05-06 14:50:14
+Factory,521,Japan,2024-05-06 14:50:17
+Factory,904,Cocos (Keeling) Islands,2024-05-06 14:50:20
+Shipping,459,Poland,2024-05-06 14:50:23
+Agriculture,914,Comoros,2024-05-06 14:50:26
+Shipping,752,United Arab Emirates,2024-05-06 14:50:29
+Vehicle,936,Swaziland,2024-05-06 14:50:32
+Construction,701,Qatar,2024-05-06 14:50:35
+Construction,621,British Virgin Islands,2024-05-06 14:50:38
+Construction,895,Seychelles,2024-05-06 14:50:41
+Deforestation,347,Korea,2024-05-06 14:50:44
+Construction,510,Eritrea,2024-05-06 14:50:47
+Shipping,379,Egypt,2024-05-06 15:26:33
+Power Plant,819,Peru,2024-05-06 15:26:36
+Agriculture,500,Marshall Islands,2024-05-06 15:26:39
+Shipping,535,Lithuania,2024-05-06 15:26:42
+Power Plant,341,Georgia,2024-05-06 15:26:45
+Power Plant,863,Turkey,2024-05-06 15:26:48
+Power Plant,722,Trinidad and Tobago,2024-05-06 15:26:51
+Vehicle,665,Korea,2024-05-06 15:26:54
+Deforestation,329,Philippines,2024-05-06 15:26:57
+Factory,892,Northern Mariana Islands,2024-05-06 15:27:00
+Power Plant,909,Qatar,2024-05-06 15:27:03
+Power Plant,469,Ireland,2024-05-06 15:27:06
+Deforestation,838,Timor-Leste,2024-05-06 15:27:09
+Power Plant,615,Solomon Islands,2024-05-06 15:27:12
+Power Plant,713,Albania,2024-05-06 15:27:15
+Shipping,758,Saint Lucia,2024-05-06 15:27:18
+Construction,547,Saint Lucia,2024-05-06 15:27:21
+Vehicle,322,Georgia,2024-05-06 15:27:24
+Power Plant,839,Azerbaijan,2024-05-06 15:27:27
+Factory,730,Ghana,2024-05-06 15:27:30
+Agriculture,516,Israel,2024-05-06 15:27:33
+Shipping,805,Congo,2024-05-06 15:27:36
+Factory,776,Greece,2024-05-06 15:27:39
+Agriculture,463,Lao People's Democratic Republic,2024-05-06 15:27:42
+Power Plant,486,Singapore,2024-05-06 15:27:45
+Agriculture,826,Venezuela,2024-05-06 15:27:48
+Agriculture,305,Eritrea,2024-05-06 15:27:51
+Deforestation,743,Greenland,2024-05-06 15:27:54
+Agriculture,645,Turkey,2024-05-06 15:27:57
+Agriculture,586,Holy See (Vatican City State),2024-05-06 15:28:00
+Vehicle,708,Aruba,2024-05-06 15:28:03
+Shipping,466,Ecuador,2024-05-06 15:28:06
+Agriculture,616,Antarctica (the territory South of 60 deg S),2024-05-06 15:28:09
+Power Plant,986,Cocos (Keeling) Islands,2024-05-06 15:28:12
+Shipping,905,Slovakia (Slovak Republic),2024-05-06 15:28:15
+Deforestation,425,South Africa,2024-05-06 15:28:18
+Agriculture,323,Tanzania,2024-05-06 15:28:21
+Agriculture,589,French Polynesia,2024-05-06 15:37:20
+Agriculture,383,Guadeloupe,2024-05-06 15:37:23
+Agriculture,556,Kuwait,2024-05-06 15:37:26
+Agriculture,417,Saint Vincent and the Grenadines,2024-05-06 15:37:29
+Factory,863,Egypt,2024-05-06 15:49:12
+Factory,535,Saint Barthelemy,2024-05-06 15:49:15
+Shipping,724,Tanzania,2024-05-06 15:49:18
+Shipping,568,Solomon Islands,2024-05-06 15:49:21
+Deforestation,661,Netherlands,2024-05-06 15:49:24
+Factory,615,Saint Lucia,2024-05-06 15:49:27
+Vehicle,823,Iceland,2024-05-06 15:49:30
+Shipping,776,Syrian Arab Republic,2024-05-06 15:49:33
+Agriculture,816,Sao Tome and Principe,2024-05-06 15:49:36
+Power Plant,585,Ukraine,2024-05-06 15:49:39
+Vehicle,676,Sao Tome and Principe,2024-05-06 15:49:42
+Shipping,618,Egypt,2024-05-06 15:49:45
+Shipping,961,Albania,2024-05-06 15:49:48
+Factory,633,Mozambique,2024-05-06 15:49:51
+Shipping,999,Heard Island and McDonald Islands,2024-05-06 15:49:54
+Factory,367,Solomon Islands,2024-05-06 15:49:57
+Construction,885,French Polynesia,2024-05-06 15:50:00
+Agriculture,936,Seychelles,2024-05-06 15:50:03
+Vehicle,761,Qatar,2024-05-06 15:50:06
+Agriculture,847,Grenada,2024-05-06 15:50:09
+Factory,452,Tokelau,2024-05-06 15:50:12
+Power Plant,613,Cambodia,2024-05-06 15:50:15
+Vehicle,963,Iceland,2024-05-06 15:50:18
+Shipping,604,Bahrain,2024-05-06 15:50:21
+Construction,684,Mali,2024-05-06 15:50:24
+Power Plant,664,Tonga,2024-05-06 15:50:27
+Deforestation,504,Singapore,2024-05-06 15:50:30
+Vehicle,370,Dominican Republic,2024-05-06 15:50:33
+Deforestation,900,Bulgaria,2024-05-06 15:50:36
+Construction,498,Angola,2024-05-06 15:50:39
+Vehicle,664,Malaysia,2024-05-06 15:50:42
+Agriculture,770,French Polynesia,2024-05-06 15:50:45
+Shipping,527,San Marino,2024-05-06 15:50:48
+Factory,394,Lao People's Democratic Republic,2024-05-06 15:50:51
+Shipping,937,Hungary,2024-05-06 15:50:54
+Construction,935,Togo,2024-05-06 15:50:57
+Deforestation,397,British Indian Ocean Territory (Chagos Archipelago),2024-05-06 15:51:00
+Deforestation,968,Benin,2024-05-06 15:51:03
+Construction,556,Andorra,2024-05-06 15:51:06
+Deforestation,475,Solomon Islands,2024-05-06 15:51:09
+Construction,751,Mali,2024-05-06 15:51:12
+Deforestation,593,Cayman Islands,2024-05-06 15:51:15
+Construction,746,British Virgin Islands,2024-05-06 15:51:18
+Agriculture,986,Azerbaijan,2024-05-06 15:51:21
+Factory,835,Senegal,2024-05-06 15:51:24
+Construction,957,Gibraltar,2024-05-06 15:51:27
+Factory,410,Heard Island and McDonald Islands,2024-05-06 15:51:30
+Construction,957,Oman,2024-05-06 15:51:33
+Vehicle,656,Cook Islands,2024-05-06 15:51:36
+Power Plant,847,Vanuatu,2024-05-06 15:51:39
+Power Plant,483,Marshall Islands,2024-05-06 15:51:42
+Power Plant,830,Cuba,2024-05-06 15:51:45
+Deforestation,798,Chad,2024-05-06 15:51:48
+Construction,931,San Marino,2024-05-06 15:51:51
+Shipping,885,Armenia,2024-05-06 15:51:54
+Vehicle,595,Nauru,2024-05-06 15:51:57
+Agriculture,357,Brazil,2024-05-06 15:52:00
+Shipping,618,United States of America,2024-05-06 15:52:03
+Construction,393,Czech Republic,2024-05-06 15:52:06
+Power Plant,646,Belgium,2024-05-06 15:52:09
+Deforestation,469,British Virgin Islands,2024-05-06 15:52:12
+Factory,601,Antarctica (the territory South of 60 deg S),2024-05-06 15:52:15
+Vehicle,616,Romania,2024-05-06 15:52:18
+Factory,431,Jordan,2024-05-06 15:52:21
+Construction,365,Guadeloupe,2024-05-06 15:52:24
+Construction,778,Spain,2024-05-06 15:52:27
+Power Plant,746,Martinique,2024-05-06 15:52:30
+Construction,394,Dominica,2024-05-06 15:52:33
+Vehicle,675,Switzerland,2024-05-06 15:52:36
+Factory,799,Gambia,2024-05-06 15:52:39
+Construction,463,South Africa,2024-05-06 15:52:42
+Shipping,477,Korea,2024-05-06 15:52:45
+Shipping,346,Somalia,2024-05-06 15:52:48
+Deforestation,458,Swaziland,2024-05-06 15:52:51
+Shipping,685,French Guiana,2024-05-06 15:52:54
+Deforestation,927,Egypt,2024-05-06 15:52:57
+Factory,436,Cote d'Ivoire,2024-05-06 15:53:00
+Construction,475,Namibia,2024-05-06 15:53:03
+Construction,509,Peru,2024-05-06 15:53:06
+Power Plant,509,Israel,2024-05-06 15:53:09
+Shipping,946,Falkland Islands (Malvinas),2024-05-06 15:53:12
+Shipping,433,New Caledonia,2024-05-06 15:53:15
+Deforestation,845,Cape Verde,2024-05-06 15:53:18
+Power Plant,752,Costa Rica,2024-05-06 15:53:21
+Deforestation,481,Guinea-Bissau,2024-05-06 15:53:24
+Construction,392,United States of America,2024-05-06 15:53:27
+Factory,410,New Caledonia,2024-05-06 15:53:30
+Vehicle,863,Saint Lucia,2024-05-06 15:53:33
+Deforestation,695,French Polynesia,2024-05-06 15:53:36
+Deforestation,976,Greece,2024-05-06 15:53:39
+Vehicle,732,French Guiana,2024-05-06 15:53:42
+Construction,561,Uganda,2024-05-06 15:53:45
+Vehicle,577,Pakistan,2024-05-06 15:53:48
+Construction,961,Philippines,2024-05-06 15:53:51
+Vehicle,657,Svalbard & Jan Mayen Islands,2024-05-06 15:53:54
+Construction,533,Niue,2024-05-06 15:53:57
+Deforestation,934,Guyana,2024-05-06 15:54:00
+Shipping,931,Japan,2024-05-06 15:54:03
+Power Plant,973,Martinique,2024-05-06 15:54:06
+Power Plant,702,Saint Barthelemy,2024-05-06 15:54:09
+Agriculture,902,Morocco,2024-05-06 15:54:12
+Vehicle,532,India,2024-05-06 15:54:15
+Power Plant,705,Paraguay,2024-05-06 15:54:18
+Factory,934,Guam,2024-05-06 15:54:21
+Deforestation,307,Benin,2024-05-06 15:54:24
+Agriculture,963,Guadeloupe,2024-05-06 15:54:27
+Construction,978,Antigua and Barbuda,2024-05-06 15:54:30
+Construction,891,Chile,2024-05-06 15:54:33
+Vehicle,759,Malta,2024-05-06 15:54:36
+Construction,637,Jamaica,2024-05-06 15:54:39
+Deforestation,487,Lithuania,2024-05-06 15:54:42
+Factory,851,Norfolk Island,2024-05-06 15:54:45
+Construction,859,Switzerland,2024-05-06 15:54:48
+Deforestation,606,Guam,2024-05-06 15:54:51
+Construction,694,Zimbabwe,2024-05-06 15:54:54
+Shipping,966,Seychelles,2024-05-06 15:54:57
+Shipping,485,Uruguay,2024-05-06 15:55:00
+Deforestation,380,Togo,2024-05-06 15:55:03
+Factory,461,Bermuda,2024-05-06 15:55:06
+Power Plant,306,New Zealand,2024-05-06 15:55:09
+Vehicle,620,Cocos (Keeling) Islands,2024-05-06 15:55:12
+Agriculture,451,Russian Federation,2024-05-06 15:55:15
+Power Plant,754,French Polynesia,2024-05-06 15:55:18
+Agriculture,426,Australia,2024-05-06 15:55:21
+Vehicle,873,Martinique,2024-05-06 15:55:24
+Deforestation,889,Uganda,2024-05-06 15:55:27
+Shipping,500,Turks and Caicos Islands,2024-05-06 15:55:30
+Construction,453,Svalbard & Jan Mayen Islands,2024-05-06 15:55:33
+Deforestation,687,Montenegro,2024-05-06 15:55:36
+Power Plant,752,Saint Helena,2024-05-06 15:55:39
+Factory,595,Bulgaria,2024-05-06 15:55:42
+Agriculture,702,Kenya,2024-05-06 15:55:45
+Factory,334,Ecuador,2024-05-06 15:55:48
+Deforestation,436,Faroe Islands,2024-05-06 15:55:51
+Vehicle,664,Papua New Guinea,2024-05-06 15:55:54
+Construction,518,Eritrea,2024-05-06 15:55:57
+Factory,648,Seychelles,2024-05-06 15:56:00
+Vehicle,734,Montenegro,2024-05-06 15:56:03
+Vehicle,465,Bulgaria,2024-05-06 15:56:06
+Deforestation,670,Myanmar,2024-05-06 15:56:09
